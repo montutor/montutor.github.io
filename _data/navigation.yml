@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
+  - title: "教程"
+    url: "/tutorial/"
+  - title: "维护记录"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "关于"
     url: /about/
